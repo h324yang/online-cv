@@ -14,7 +14,7 @@ sidebar:
     # Sidebar links
     email: h324yang@uwaterloo.ca
     phone: +1-519-584-5912
-    website: h324yang.github.io/online-cv/ #do not add http://
+    website: #do not add http://
     linkedin: yhsiuwei
     github: h324yang
     gitlab:
@@ -44,18 +44,20 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-
-      Second paragraph if required.
+        Leo (Hsiu-Wei) Yang is a master's student in computer science at University of Waterloo. His research interests lie in natural language processing and knowledge graph applications based on deep learning and Spark. His research papers are published in top conferences, including EMNLP, SIGIR, CIKM, and JCDL. He also received a MBA degree from National Taiwan University and has several years of experience as a data analyst specializing in social media.
 
 education:
     - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+      university: University of Waterloo
+      time: 2018 - Present
+      details: |
+
+          - Bullet point
+          - Bullet point
+
+    - degree: MBA
+      university: National Taiwan University
+      time: 2010 - 2012
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -66,9 +68,9 @@ education:
           - Bullet point
           - Bullet point
 
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
+    - degree: BA in Applied Economics
+      university: National University of Kaohsiung
+      time: 2006 - 2010
       details: |
         Describe your study here lorem ipsum dolor sit amet, consectetuer
         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
@@ -193,5 +195,5 @@ skills:
       - name: Sketch & Photoshop
         level: 60%
 
-footer: >
+#footer: >
     #Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
